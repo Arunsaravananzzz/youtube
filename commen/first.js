@@ -1,3 +1,8 @@
+const f=function() {
+    
+ 
+    
+
 let a=[1,2,30,5,40];
 let b=[10,20,30,40,50];
 let c=[1,30,2,40]
@@ -19,3 +24,5 @@ for(i=0;i<a.length;i++)
     else{}
 }
 }
+};
+module.exports= f;
